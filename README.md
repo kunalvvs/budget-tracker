@@ -1,18 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to your budget tracker project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/dbf47a9d-40d1-46df-9d25-75bd43b04310
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/dbf47a9d-40d1-46df-9d25-75bd43b04310) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+**URL**: https://budgettracker-sooty.vercel.app/
 
 **Use your preferred IDE**
 
